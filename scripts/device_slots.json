@@ -55,6 +55,20 @@
       "forecast_unit_font": "forecast_unit_font",
       "color_correction": false,
       "wrap_tall_labels": false
+    },
+    {
+      "slug": "esp32-p4-86-panel",
+      "slots": 9,
+      "cols": 3,
+      "grid": "3x3",
+      "icon_font": "icon_font",
+      "climate_control_icon_font": "climate_control_icon_font",
+      "sensor_font": "statistics_font",
+      "climate_target_font": "climate_target_font",
+      "forecast_font": "forecast_font",
+      "forecast_unit_font": "forecast_unit_font",
+      "color_correction": false,
+      "wrap_tall_labels": false
     }
   ]
 }
